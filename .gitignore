@@ -8,3 +8,5 @@ desktop.ini
 /dist/
 *.exe
 *.dll
+
+*.log
