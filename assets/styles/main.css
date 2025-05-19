@@ -24,3 +24,12 @@ header {
 header h1 {
   color: #333333;
 }
+.footer-widget {
+  flex: 1;
+  margin: 0 10px;
+  padding: 15px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
