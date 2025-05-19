@@ -1,4 +1,9 @@
 /* main-css*/
+<<<<<<< HEAD
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+=======
 .subscribe-button {
   background-color: #007BFF;
   color: white;
@@ -10,4 +15,5 @@
 
 .subscribe-button:hover {
   background-color: #0056b3;
+>>>>>>> origin/main
 }
